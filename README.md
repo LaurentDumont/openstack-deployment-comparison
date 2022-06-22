@@ -6,3 +6,4 @@
 | redhat openstack platform - RHOSP 	|   	|   	|   	|   	|   	|
 | Canonical Openstack   	|   	|   	|   	|   	|   	|
 | Mirantis Openstack Platform  	|   	|   	|   	|   	|   	|
+| Vexxhost Atmosphere   	|   	|   	|   	|   	|   	|
